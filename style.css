@@ -1,0 +1,23 @@
+* {
+    font-family: Quicksand, sans-serif;
+}
+
+body {
+    background-color:#B4CE97;
+    color:#1B2310;
+    text-align: center;
+}
+
+ol li, ul li {
+    display: block;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
